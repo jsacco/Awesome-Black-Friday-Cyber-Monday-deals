@@ -71,6 +71,12 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 18 | [IlluminateMe](https://apps.apple.com/us/app/illuminateme/id6447471704?mt=12) | Use your monitor as a light source | 50% off lifetime license | Nov 15 - Dec 3 |
 | 19 | [Inventory Tracker Itemlist](https://getitemlist.app) | Itemlist is a powerful inventory tracker app for home and business, available on iOS and iPadOS (with macOS support coming soon). Easily organize, categorize, and locate items in seconds. | 50% OFF Lifetime PRO | Nov 24 - Dec 8 |
 
+## 💻 Security tools
+
+| **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
+| 1 | [ExploitPack](https://exploitpack.com/indexexploitpack.html) | Exploit Pack - Advanced Exploitation Framework with 0days and 39,500+ exploits | Lifetime 10 licenses available | Nov 20 - Nov 30 |
+| 2 | [ControlPack](https://exploitpack.com/indexcontrolpack.html) | Control Pack - Command & Control Framework, not detected by AVs and EDRs | Lifetime 10 licenses available  | Nov 20 - Nov 30 |
+
 
 ## ⚒️ Developer Tools
 
